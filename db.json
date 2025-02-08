@@ -1,0 +1,22 @@
+{
+  "student": [
+    {
+      "id": "23",
+      "name": "Rahul",
+      "place": "noida",
+      "phone": "4567890123"
+    },
+    {
+      "id": "6",
+      "name": "Sunil Kharayat",
+      "place": "Gaulapar",
+      "phone": "9876543210"
+    },
+    {
+      "id": "7",
+      "name": "Pawan Palariya",
+      "place": "Kheda",
+      "phone": "987643211"
+    }
+  ]
+}
